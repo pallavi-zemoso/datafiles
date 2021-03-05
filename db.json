@@ -1,20 +1,22 @@
-[
-  {
-    "name" : "Handloom threads",
-    "url" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.indianexpress.com%2F2018%2F08%2Fhandloom-textiles_getty-images_1200.jpg&imgrefurl=https%3A%2F%2Findianexpress.com%2Farticle%2Flifestyle%2Ffashion%2Fwhy-india-and-its-weavers-needed-a-national-handloom-day-5295651%2F&tbnid=g86hU2U6QCcGgM&vet=12ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMygPegUIARDyAQ..i&docid=arL4yGAa8q0BzM&w=1200&h=667&q=handloom&ved=2ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMygPegUIARDyAQ",
-    "information" : "Beautiful handllom threads",
-    "uploadedDate" : "20200210"
-  },
-  {
-    "name" : "Handloom wheel",
-    "url" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fsmefutures.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2020%2F12%2F20000847%2FHandloom-Business.jpg&imgrefurl=https%3A%2F%2Fsmefutures.com%2Findian-handloom-and-handicraft-sector-developing-resilience-to-adapt-with-pandemic-posed-challenges%2F&tbnid=iGOHTGU6bfkG7M&vet=12ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMyg3egQIARBj..i&docid=Rc5hlcLpEof1NM&w=800&h=450&q=handloom&ved=2ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMyg3egQIARBj",
-    "information" : "Handloom wheel at work",
-    "uploadedDate" : "20200131"
-  },  
-  {
-    "name" : "Handloom smaple cloth",
-    "url" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fgrazia.wwmindia.com%2Fcontent%2F2020%2Faug%2Fnationalhandloomday111596785725.jpg&imgrefurl=https%3A%2F%2Fwww.grazia.co.in%2Flifestyle%2Fnational-handloom-day-journey-of-the-weave-5517.html&tbnid=HGH4_xy5qJ1RuM&vet=12ahUKEwjhtfe6kJjvAhWhgGMGHWo4B5kQMygCegUIARDTAQ..i&docid=8fd2qLrPr3uT6M&w=500&h=500&q=handloom&hl=en&ved=2ahUKEwjhtfe6kJjvAhWhgGMGHWo4B5kQMygCegUIARDTAQ",
-    "information" : "A sample cloth with unique pattern weaved using handloom",
-    "uploadedDate" : "20200201"
-  }
-]
+{
+  "customImages": [
+     {
+       "name" : "Handloom threads",
+       "url" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.indianexpress.com%2F2018%2F08%2Fhandloom-textiles_getty-images_1200.jpg&imgrefurl=https%3A%2F%2Findianexpress.com%2Farticle%2Flifestyle%2Ffashion%2Fwhy-india-and-its-weavers-needed-a-national-handloom-day-5295651%2F&tbnid=g86hU2U6QCcGgM&vet=12ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMygPegUIARDyAQ..i&docid=arL4yGAa8q0BzM&w=1200&h=667&q=handloom&ved=2ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMygPegUIARDyAQ",
+       "information" : "Beautiful handllom threads",
+       "uploadedDate" : "20200210"
+     },
+     {
+       "name" : "Handloom wheel",
+       "url" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fsmefutures.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2020%2F12%2F20000847%2FHandloom-Business.jpg&imgrefurl=https%3A%2F%2Fsmefutures.com%2Findian-handloom-and-handicraft-sector-developing-resilience-to-adapt-with-pandemic-posed-challenges%2F&tbnid=iGOHTGU6bfkG7M&vet=12ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMyg3egQIARBj..i&docid=Rc5hlcLpEof1NM&w=800&h=450&q=handloom&ved=2ahUKEwjStIjyj5jvAhUV_TgGHaIrCSoQMyg3egQIARBj",
+       "information" : "Handloom wheel at work",
+       "uploadedDate" : "20200131"
+     },  
+     {
+       "name" : "Handloom smaple cloth",
+       "url" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fgrazia.wwmindia.com%2Fcontent%2F2020%2Faug%2Fnationalhandloomday111596785725.jpg&imgrefurl=https%3A%2F%2Fwww.grazia.co.in%2Flifestyle%2Fnational-handloom-day-journey-of-the-weave-5517.html&tbnid=HGH4_xy5qJ1RuM&vet=12ahUKEwjhtfe6kJjvAhWhgGMGHWo4B5kQMygCegUIARDTAQ..i&docid=8fd2qLrPr3uT6M&w=500&h=500&q=handloom&hl=en&ved=2ahUKEwjhtfe6kJjvAhWhgGMGHWo4B5kQMygCegUIARDTAQ",
+       "information" : "A sample cloth with unique pattern weaved using handloom",
+       "uploadedDate" : "20200201"
+     }
+  ]
+}
